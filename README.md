@@ -1,1 +1,1 @@
-Operating system implemented in operating system course of ZJU.
+A simple OS based on RISC-V.
